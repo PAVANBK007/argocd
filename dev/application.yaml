@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/PAVANBK007/kubernetes.git'
+    repoURL: 'https://github.com/PAVANBK007/argocd.git'
     targetRevision: HEAD
     path: dev  # folder where deployment.yaml and service.yaml are
   destination:
